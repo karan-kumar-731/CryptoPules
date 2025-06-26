@@ -1,0 +1,8 @@
+.dashboard {
+  padding: 20px;
+}
+.dashboard.light { background: #fff; color: #000; }
+.dashboard.dark { background: #333; color: #fff; }
+ul { list-style: none; padding: 0; }
+li { margin: 10px 0; }
+button { margin-left: 10px; }
